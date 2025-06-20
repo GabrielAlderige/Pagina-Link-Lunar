@@ -25,9 +25,3 @@ O objetivo principal deste projeto é fornecer uma estrutura HTML/CSS básica e 
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
-
-1. **Clone o repositório**:
-
-```bash
-git clone [URL_DO_SEU_REPOSITORIO]
